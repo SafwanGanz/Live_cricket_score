@@ -62,7 +62,7 @@ console.log(res)
 ```
 ## Sources
 
-canvacord
+cricbuzz
 
 ## License
 
