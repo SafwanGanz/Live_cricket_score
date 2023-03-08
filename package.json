@@ -1,0 +1,25 @@
+{
+ "name": "Cricket Score Board",
+ "description": "Live Cricket 🏏 Scores",
+ "version": "1.0.0",
+ "main": "index.js",
+ "keywords": [
+   "cricket",
+   "live",
+   "score",
+   "cricket_live"
+ ],
+ "author": "SafwanGanz",
+ "license": "MIT",
+ "dependencies": {
+  "node-fetch": "^3.3.0"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/SafwanGanz/Live_cricket_score.git"
+ },
+ "bugs": {
+  "url": "https://github.com/SafwanGanz/Live_cricket_score/issues"
+ },
+ "homepage": "https://github.com/SafwanGanz/Live_cricket_score#readme"
+}
