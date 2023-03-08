@@ -1,8 +1,11 @@
 {
- "name": "Cricket Score Board",
+ "name": "cric-live-score",
  "description": "Live Cricket 🏏 Scores",
- "version": "1.0.0",
- "main": "index.js",
+ "version": "3.0.0",
+ "types": "typings/index.js",
+  "files": [
+    "index.js"
+  ],
  "keywords": [
    "cricket",
    "live",
