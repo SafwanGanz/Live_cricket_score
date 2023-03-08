@@ -1,5 +1,10 @@
 Live Cricket 🏏 Score Api
 ====================
+# Getting Started
+
+Put match ID in get_score(ID).
+Get match ID from cricbuzz today match url.\n- example: https://www.cricbuzz.com/live-cricket-scores/60023
+so match ID is 60023 !
 
 ## Install using npm:
 
