@@ -17,6 +17,9 @@ console.log(res)
 })
 
 ```
+
+## Output
+
 ```output
 
 /*
