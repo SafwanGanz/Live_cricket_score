@@ -2,7 +2,7 @@
  "name": "cric-live-score",
  "description": "Live Cricket 🏏 Scores",
  "version": "3.0.0",
- "types": "typings/index.js",
+ "types": "commonjs",
   "files": [
     "index.js"
   ],
