@@ -15,7 +15,7 @@ npm install cric-live-score
 ## Example usage
 
 ```javascript
-
+const get_score = require('cric-live-score')
 await get_score('56192')
 .then(res =>{
 console.log(res)
